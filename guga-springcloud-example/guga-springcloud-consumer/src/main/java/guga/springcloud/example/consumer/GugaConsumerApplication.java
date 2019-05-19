@@ -9,7 +9,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * 消费者
+ * 消费者应用
+ * 
+ * @author bigeyewolf@163.com
  *
  */
 @EnableFeignClients

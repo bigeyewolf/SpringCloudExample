@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 提供者
+ * 提供者应用
  * 
- * @author bigeyewolf
+ * @author bigeyewolf@163.com
  *
  */
 @SpringBootApplication
